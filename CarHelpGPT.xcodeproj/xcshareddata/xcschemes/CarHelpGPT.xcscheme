@@ -51,11 +51,6 @@
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "OPENAI_API_KEY"
-            value = "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"
-            isEnabled = "YES">
-         </EnvironmentVariable>
       </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
